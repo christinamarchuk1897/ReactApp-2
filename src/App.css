@@ -1,0 +1,22 @@
+.white {
+    color: white;
+}
+
+.card-width{
+    width: 25rem;
+}
+
+.container{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.margin{
+    margin: 50px;
+}
+
+.form-width{
+    max-width: 60%;
+    margin: 50px auto;
+}
